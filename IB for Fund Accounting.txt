@@ -1,0 +1,6 @@
+Coming to Fund Account the year ending process is to check for open commitments, which is you can verify through GL862 
+or through scheduling your open item report GL865
+
+For Fund there is a year end process that is GL855, which will carry over appropriations the left over into the new year.
+And if you want to archive the FC and FCT transactions, which generated when creating fund transactions even through APPL or 
+other means or straight to the General Ledger, there is an archive procedure for those transactions and that is through the GL850
