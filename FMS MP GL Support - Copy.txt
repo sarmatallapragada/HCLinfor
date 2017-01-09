@@ -1,0 +1,870 @@
+KB 1380325
+
+***********************
+
+Mainframe ID:
+
+SSA1: - PROD
+
+ID: TALSA01
+pwd: NOV2DEC - Changed on 28/11/2016
+
+
+SSA2: - PROD
+
+ID: TALSA02
+pwd: AUG2SEP
+
+***********************
+
+AS\400:  10.39.117.121
+
+ID: TALSA01
+pwd: Infor1016
+
+***********************
+
+Abhibus:
+
+ID: 9177379976
+Pwd: srisurya12
+
+Email: siri_canchana@yahoo.co.in
+
+
+***********************
+
+SBI New account Atreyapuram:
+
+ID : OXPX231	
+PWD: 1234*a
+
+***********************
+
+Webex Credentials:
+
+Id : stallapragada
+pwd: Infor@10
+
+***********************
+
+Tomcat:
+
+link: http://usalvwtnay5:8080/manager/html/ 
+
+user: admin
+pwd : admin
+
+***********************
+
+Payslip:
+
+pwd: Srisurya@1212
+
+*************************************************************************************************************
+
+helpdeskpayrolltech@hcl.com
+
+
+Hi Gerald,
+
+You will see the amount for the beginning balances in the AFS-AMT-BBAL field, if the account is a balance sheet account.  It will not contain any balance in this field for P&L type accounts unless the bbal switch is set to 'Y' on GL100.   
+
+Go to GL100 and press PF1 for help on the retain beginning balance field.     This is the beginning balance for the year.    
+
+Since you want to check the beginning balance for a particular month - August,  the way we would calculate that would be to add the amounts in AFS-AMT-BBAL plus AFS-AMT-PERD(1), ETC until the period you want.  
+
+The balances stored on the AFS amount fields are for each period.  We don't store the accumulated balance anywhere, it is calculated
+
+Based on the information provided, please let us know if we can close this incident and you can always get back to us by raising a new incident in case of any further queries/issue.
+
+Thanks & Regards,
+Sarma.
+
+
+*******************************************************************
+
+Duplication:
+
+GL220
+
+Account: 1-01-44441
+
+
+MVS Datacom -10006598 - GL220 doesn't allow editing when account is inactive but Gl250 bypass with context switch
+
+
+*******************************************************************
+
+
+KB 1852251 -	GL220 doesn't allow editing when account is inactive but Gl250 bypass with context switch
+
+
+MVS 4.0 regions(preferably in P4C4 to match client’s environment)
+
+
+
+27005897 - Dlink
+
+Dlinkdir - 868L
+
+
+
+TPLINK TL-WR740N 
+
+
+
+
+https://housing.com/in/buy/resale/page/1086885-2-bhk-apartment-in-serilingampally-for-rs-3500000
+
+
+******************************************************************************************************
+
+EMCP: Medical insurance
+
+•	URL: https://myhealth.indiainsure.com/HCL
+•	User ID : 51306146
+•	Password : ceiCfVnB (In case you have logged in to the website and changed your password, kindly use the new password.)
+•	Last date for enrolment : September 16,2016 11:59:59 PM
+
+
+******************************************************************************************************
+
+
+KB 1852251 - Testing - SSAMVS:
+-------------------------------
+
+
+1-01-44443 - GL221 - SARMA6
+
+1-01-44445 - GL222 - SARMA7
+
+1-01-44442 - GL220 - SARM1
+
+1-01-44441 - GL223 - SARM2
+ 
+1-01-44444 - GL224 - SARM3
+1-01-11112
+
+10111113   - GL200
+
+
+KB 1852251 - Testing - AS 400:
+-------------------------------
+
+1-11-11125  - GL220 - SARMA1
+
+28461392999 - GL221 - SARMA2
+
+681234      - GL222 - SARMA3
+
+78NA10D911211 - GL223 - SARMA4
+
+9263257 - GL224 - SARMA5
+
+1-11-11123 - GL200 - 
+
+
+
+10029647 12:00 PM EST
+
+
+*********************************************
+
+
+Tomcat server restart:
+
+white screen: (latest) - InforFMSNow
+
+Old screen: (old) - InforFMS
+
+*********************************************
+
+
+
+CHBKMOS50
+
+
+WER039A  INSUFFICIENT VIRTUAL STORAGE
+
+WER776A BLDL FAILURE FOR DDNA
+
+
+
+In DFSORT we can increase the sort work files upto 255 based on the input data volume. We suggest you to please check with Syncsort vendor on how you can use the sort work files and its limitations
+
+
+The message is coming from the java portion of the code and there is a newer version of the WEB for V3.0. Could you please confirm if you were able to run this type of chase previously. We tried testing it on V3.0 and not able to duplicate it. Could you please test the same chase level with a lower level account and see if the problem occurs again
+
+
+
+
+****************************************************************
+
+99 levels above posting level account.
+
+using/running GL670/GL626/GL656 - Summary account details.
+
+
+
+
+
+Monthly Flexi basket amount to be given: 24852
+
+
+
+
+OPPO A37 Dual SIM
+
+OPPO F1 
+
+
+CHBKFESTIVE
+
+
+****************************************************************
+
+AS/400:
+
+
+displbl - Display libraries
+wrklbl - work with library
+
+strpdm - 
+wrksmtjob 
+wrkactjob
+
+
+STRPDM - to go to the first menu
+
+worksbmjob - to see the active job logs and jobs submitted
+
+workactjob - to check the active sessions and kill them if required
+
+call m30tool/rel30ndvr  to swith to different FMS version (default is 4.0)
+
+CALL M30TOOL/REL20NDVR
+
+****************************************************************
+
+
+WF8550NHC   DIAMOND DRUM 5.5
+
+8467832090 ACCOUNT ID
+
+
+Ravi (Venkata Pallapothu) : 9866191961 ( windows Support )
+
+9394930131  perfect shaper
+
+
+\\10.39.115.120\e-drive\MpTraining\Presentations\File Manager
+
+
+
+KB 1865126 -	Unexpected Result with Multiple Ranges used in GL122B Panel
+
+
+
+I bring these screens attached:
+
+GL100
+
+GL502: OK
+
+Then GL670.
+
+
+
+Hello,
+
+I have not changed the GL114 or GL115.Il tables are no changes or changes to my knowledge.
+
+
+I grabbed on GL113 / GL100 with tabs (screens already passed) and GL 502.
+I have not used other screens.
+
+
+9440029098 - shailender, borabanda
+
+ratna priya reference
+
+
+\\Infor.com\shared\USAL\Departments\Development\FM-HAUP\Public\APAR STATUS Folder 
+
+\\10.7.32.20\shared\USAL\Departments\Development\FM-HAUP\Public\APAR STATUS Folder
+
+
+The account block replacement table (GL115) usually contains both the value to
+which the block is compared and the replacement value to use. In some cases,
+however, the account block replacement table (GL115) references another table,
+the account block validation table (GL113), to perform a comparison test on a
+table of values stored there. The system references the account block validation
+table (GL113) to determine if the block value is acceptable, and then return to
+the account block replacement table (GL115) to obtain the value to use.
+
+
+Fin des détails pour cet en-tête (G11503)
+
+
+***********************************************************************************
+
+10128007 - archiving pjt GL550
+
+Hello, 
+
+I submitted an archiving pjt via GL550 and I deleted the NGT via CS571 
+Once I would resubmit archiving the PJT I get the following response: «Incorrect procedure. Archive already scheduled, request denied (G55027)»
+Thanks for your helps
+
+Ed Colon: 
+
+Abdenbi,
+In order to be able to re-run a gl550 there is a context switch that needs to be set on MS302 for GL550: This is in the Context Switch Guide for V4.0
+
+Go to MS302 
+Enter in GL550 and then do an INQ
+Navigate to MS302C and make sure the panel ID is GL550A
+Turn on Switch C to a Y
+Do a change
+Logoff
+Restart Tomcat
+Re-run your GL550 archive
+
+
+GL550A3 GL550A Schedule Transaction Archive C Switch on will reset G02 parameter record.
+
+
+***********************************************************************************
+
+
+JuanCarlo.Gooco@infor.com
+
+
+
+*******************************************************************
+
+for Harish:
+
+transferred -   50,000 (100+49,900) - as of 10/27/2016
+transferred - 1,30,000 as of 10/28/2016
+
+@ of 47.60 ( Need to get 3750/- from Kousu akka for $ difference
+
+*******************************************************************
+
+
+
+
+
+that should be my next step?
+
+you need to raise IB Event request and update the Email Request form with that information. Then you need to send Email Request form to Infor.Communications@infor.com 
+
+Once you get the approval, you need to send that to kim.raftery@infor.com and don.wygant@infor.com
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[?11/?1/?2016 8:04 PM] Edwin Colon: 
+Sarma have them check to see how the jobis defined in CS510 - they should be setup to be adhoc if they want them to run right away. They can also check CS505 to make sure those cycle records they are running with are setup as adhoc. If not then you may need to go to Ramamurthi or RaviKumar to see what jobs are not getting started on MP V4.0 They just migrated from V3.0
+[?11/?1/?2016 8:04 PM] Sarma Tallapragada: 
+srue
+sure
+but since it is related to VRW and we are not supporting that part
+[?11/?1/?2016 8:05 PM] Edwin Colon: 
+Please go there yourself so that you know what i am talking about
+[?11/?1/?2016 8:05 PM] Sarma Tallapragada: 
+why cant we suggest them to check their environment setup properly before running the job?
+[?11/?1/?2016 8:05 PM] Edwin Colon: 
+Yes we do
+No start where I told you
+[?11/?1/?2016 8:06 PM] Sarma Tallapragada: 
+sure i will
+[?11/?1/?2016 8:06 PM] Edwin Colon: 
+They have 2 calls out there for the same thing
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+https://apacinfor.webex.com/
+
+
+
+Alexander Blackburn - for Windows/infra issues
+
+
+
+HKLM\Software\Wow6432Node\Infor\FMS Masterpiece\Seq File Options\Paths\LPTPRT
+
+
+[?11/?2/?2016 9:58 PM] Edwin Colon: 
+Sarma they did not send the GL114 table information we need that from incident 10116339
+[?11/?2/?2016 9:59 PM] Sarma Tallapragada: 
+Ed I have asked them the same thing
+i have requested them the screen shots of GL114 table
+[?11/?2/?2016 10:00 PM] Edwin Colon: 
+Tell them without we cannot solve the problem
+without it
+[?11/?2/?2016 10:01 PM] Sarma Tallapragada: 
+sure
+We saved this conversation. You'll see it soon in the Conversations tab in Skype for Business and in the Conversation History folder in Outlook.
+[?11/?2/?2016 10:01 PM] Edwin Colon: 
+The GL115 is good but we need to see how the summary accounts are being built below it
+[?11/?2/?2016 10:01 PM] Sarma Tallapragada: 
+sure
+let them come back
+i will update them this also
+
+
+2.0.1008
+
+
+********************************************
+
+mhtml:http://10.44.68.138/Masterpiece/    - all links
+ 
+********************************************
+
+
+It is the latest version of the program so it will include all the fixes before this one that the client does not have yet.  So hopefully it will fix all their issues.  Please send them the latest doc for the FEC which was in kb  1607356 
+The latest is  KB 1621508 and that will fix their problem
+
+
+51605742  - check with sasi
+on TD_...
+
+Journal type: R (Reversing journal).
+
+
+
+All amounts posted to posting accounts roll up into the parent accounts.   We need more information to investigate.  
+Do you still have the job output for the journal 12SE16 that posted the -101,423.27 to 101120299961?  
+Did you experience any abends in the journal posting?
+
+Could you supply a GL626/GL656 report similar to the online GL670 screen print you have provided so that we can see the entire structure?   
+I would like to verify that the report shows the same values as in your spreadsheet.
+
+
+Wednesday
+
+wednesday
+
+[?11/?8/?2016 6:28 PM] Donna Gallo: 
+
+You can only change an asset/liability type to income/expense type if the account does not have any relationships.  There are also checks for beginning balance.  They can try removing any relationships and try changing the type.  There might be something in the user guide that discusses the rules.
+
+
+[?11/?8/?2016 6:34 PM] Donna Gallo: 
+I think it might let them change it with beginning balances if the 'retain beginning balance' sw on GL100 is set to 'y'.   You would need to test this first.
+
+
+That is the same but for a summary account.  I think if they remove the relationships they should be able to change B to C         You should try this with 2 accounts that are related to each other.  You would delete the relationship on GL101, make the account type change, then re-add the relationship on GL101
+
+
+
+You cannot change a posting level account from a balance sheet account to an income account if it is related or already been posted too. A summary account may be different if it is not related to another account up or down in the relationship  hierarchy
+If you go to the Processing Guide in GL the rules are spelled out for them and you can point them to it in the ddocumentation
+
+
+
+Don Wygant:
+
+When you get the approval from Infor Communications / Audrey Kosier, then forward it to me along with the approved request form.
+
+
+**** KB 1836133   - For IB PPT preparation (Sample KB)
+zd
+
+
+
+9178884 - production down reference
+
+TEXT_DESC_JE
+
+
+special characters (eg @ Â .....) in the wording of the scriptures led a zone shift in the external file and resulted among other the currency has been charged with the 0504 value instead of 504 in the input file (JED). and this explains the blockage when imputing these writings. 
+
+Need to rebuild that are in UNP to recharge by gl361 without special characters. Need to check with users to re enter the entries that are in the input file (GL320; gl322). and has such character.
+
+
+
+**************************************************************
+
+[?11/?14/?2016 3:14 PM] Venkata Ramachandra Penumethsa: 
+146722388 
+9169424  
+[?11/?14/?2016 4:38 PM] Sarma Tallapragada: 
+Raju
+Raju 
+[?11/?14/?2016 4:39 PM] Sarma Tallapragada: 
+Sofia Why can we change the currency code auntundi kada
+invalid vunte change chesi malli post cheyyakudada?
+[?11/?14/?2016 4:39 PM] Venkata Ramachandra Penumethsa: 
+ yeah
+cheyyochu
+[?11/?14/?2016 4:46 PM] Venkata Ramachandra Penumethsa: 
+9187303  
+
+**************************************************************
+
+
+9187303  - Exact issue as 10194699 (Production down)
+
+
+Donna:  Need to correct the sequential input file, which has the special character.
+
+[?11/?14/?2016 8:09 PM] Donna Gallo: 
+It will prevent it from aborting in GL350P3 and leaving the records on the UNP file.  But they will still need to fix their input file.  It will leave the bad journal on data collection instead.
+Get them past this immediate problem, then you can tell them we will add a fix to help it in the future.
+[?11/?14/?2016 8:10 PM] Sarma Tallapragada: 
+sure definitely
+we will let her fix their input file and complete the batch
+then we can finally update them about the fix and KB
+[?11/?14/?2016 8:13 PM] Donna Gallo: 
+yes
+
+*******************************************
+
+
+[?11/?14/?2016 7:14 PM] Sarma Tallapragada: 
+It is reported by the Sweden customer - Lars
+The incident# is - 10195148
+[?11/?14/?2016 7:16 PM] Donna Gallo: 
+You'll have to try to duplicate the problem.
+[?11/?14/?2016 7:17 PM] Sarma Tallapragada: 
+ok
+he has provided all the screen shots related to the problem
+[?11/?14/?2016 7:21 PM] Sarma Tallapragada: 
+i think i have to ask him for the steps to recreate the problem
+[?11/?14/?2016 7:25 PM] Donna Gallo: 
+There may be a bug in the program when multi-orgs are involved.  I do see a line in the code that looks suspicious 'MOVE PGMWK-ID-ORG-SUBD      TO MPIO-ID-ORG.  '     So you need to duplicate the problem and then we can create a fix to the program.    You'll need account gen that goes across orgs.  Perhaps have Ed help you on this one.
+[?11/?14/?2016 7:25 PM] Sarma Tallapragada: 
+sure 
+i will take help from Ed
+thanks alot for your time
+[?11/?14/?2016 7:25 PM] Donna Gallo: 
+yw
+
+***************************************************
+
+
+*** KB 1836136 - Implosion lock issue - Resolution.
+
+
+***************************************************
+
+Description:
+
+while running GL156 in a parent organization using account list(GL012), the generated updates for the parent organization ends up in the lower organization even if all updates are for the parent organization
+
+Steps To Reproduce:
+
+
+
+
+
+*********************************************************************
+
+10195148:
+
+
+[?11/?18/?2016 9:38 PM] Donna Gallo: 
+Only if priority 1 or 2 will the incident need to stay open
+[?11/?18/?2016 9:38 PM] Sarma Tallapragada: 
+ok thank you
+[?11/?18/?2016 9:39 PM] Sarma Tallapragada: 
+Donna 
+one more thing
+could you please let me know the steps to reproduce this issue?
+[?11/?18/?2016 9:41 PM] Donna Gallo: 
+Actually we could not duplicate the issue.  But Lars tested it and said it worked for him.  So the QA would be just to get GL156 to create a batch and make sure it works ok
+[?11/?18/?2016 9:41 PM] Sarma Tallapragada: 
+then if i have to create the KB i need to mention the steps to be reproduced right?
+[?11/?18/?2016 9:43 PM] Donna Gallo: 
+Yes, just say that you would have an account structure that crosses organizations and the batch that gets created in GL156 may be created in the lower organization in error
+[?11/?18/?2016 9:44 PM] Sarma Tallapragada: 
+if mention the above statement you have mentioned in steps to reproduce is sufficient right?
+
+***********************************************************************
+
+Extension: 4400 - For Facilities AC
+
+
+909256 - new pass code
+
+
+http://www.eenadu.net/homeinner.aspx?category=home&item=%20break35
+
+
+
+*******************************************************************
+
+Donna on QA for LARS issue:
+
+[?12/?1/?2016 9:55 PM] Sarma Tallapragada: 
+last time you said we cant test this right?
+now Ramachandar completed testing
+sorry 
+coding
+now it is for QA
+I am just checking if it is possible to do QA on this
+we could not duplicate this issue and have given code to Lars
+[?12/?1/?2016 9:57 PM] Donna Gallo: 
+Yes, we couldn't duplicate it and Lars did test it.  I just wanted you to run it on all the platforms to make sure that the object is running fine.  Any GL156 selection would be ok.
+[?12/?1/?2016 10:01 PM] Sarma Tallapragada: 
+Donna
+please let me know if there are huge code changes were for this
+[?12/?1/?2016 10:02 PM] Sarma Tallapragada: 
+or it is simple code change?
+i checked with Ed on this and he is asking for the amount of code changes done
+[?12/?1/?2016 10:03 PM] Donna Gallo: 
+It was a one line code change to reset the programs I/O org at the end before it writes out the data collection file.  So any job that creates a batch would be a good test.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+To see the JOB executing :   start I.J
+
+To go to Endevor - A.E -> 1 -> U -> 10 -> MDBJOB 
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+
+TALSA012 J001239  Z/OS testing
+
+
+It seems that they are having a problem with the GL353 summarization program where it is creating an extra detail record when it should not be.  They have a 4 line journal CR2860 and after GL353 is run they have a 5 line journal which is wrong.  This was reported before in incident 9970156  but it seems they are still getting the problem.  I think you should try to duplicate the problem in the 2.0 release.
+
+
+
+[?12/?5/?2016 9:37 PM] Edwin Colon: 
+I will not have time today - i am working on something for Donna. it would probably be better tomorrow. But in the mean time review the documentation on GL126 and Gl156 and what it does.
+
+
+
+[?12/?6/?2016 6:07 PM] Donna Gallo: 
+You need to create a 4 line journal like in his attachment.  He entered his with external feed so that is probably what you need to do.  He said he would test a manually entered journal to see if he gets the problem.  I have a feeling it may not happen with one entered manually.  We'll see what he says.  So first, create a 4 line journal with external feed.    It should look like this:
+acct8239  75.00
+acct7017  75.00-
+acct9996  75.00-
+[?12/?6/?2016 6:08 PM] Sarma Tallapragada: 
+i will take the help of Raju on how to create external feed for this
+[?12/?6/?2016 6:08 PM] Donna Gallo: 
+acct7017 75.00
+[?12/?6/?2016 6:08 PM] Sarma Tallapragada: 
+Sure thank you
+please provide me all possible details to duplicate it
+I know you must be very busy with all this CSF activities
+[?12/?6/?2016 6:08 PM] Donna Gallo: 
+And when you run the GL353 after the journal is created, you would have only acct7017 and acct9996 in the selection criterea, just like his attactments
+[?12/?6/?2016 6:09 PM] Sarma Tallapragada: 
+still you responded very quickly. Thanks a lot Donna
+i will try to achieve this with the help of Raju and let you know
+
+
+When GL353 is run, it should change anything because acct8239 is not selected, acct9996 only has one entry, and acct7017 nets to zero so it should not change.   In his example, it actually created an extra journal line for acct9996 for 75.00.   That is not right.  (Look at the highlighted sections of his attachment for his GL353 run, the one dated 01/12/2016)
+shouldn't change anything
+dated 02/12/2016
+
+
+1472241 - Year End Processing 2013
+
+
+1876142
+
+
+Donna:
+
+[?12/?8/?2016 10:11 PM] Donna Gallo: 
+It is showing that the conversion rate is 1.0.   Not sure why that would be the case.  They still did not answer the question if anyone updated the journals online before GL350 was scheduled.  Can you ask them to clarify the process of this external feed.  GL361N3 was run to load the external feed to data collection.  Then GL350 was run to process the journals.  Question - did anyone update these journals online with GL320 or GL322 or GL321 before the GL350 was scheduled?  
+
+
+
+GL115 - NACCT, SU, SUMMARY ACCOUNTS, NACCT, 10
+
+
+
+ISPRF TO BALS
+
+
+GL126 - FROM: 1@@@@@@@
+
+
+1299 - 8GB RAM - i7 1tb - HP
+1199 - Dell - i7 1Tb - 16GB
+
+
+Port 10147 is 4.0 DB2, CICSP4B0
+
+
+We appreciate you as a customer. If you do receive a support survey request from Infor Xtreme, please consider responding to it to provide your valuable feedback. Thank you.
+
+6971133 -> 1 sided journal 
+
+MPSRC.ACCA.REL40.SOURCE.COB
+
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+[?12/?16/?2016 9:59 PM] Donna Gallo: 
+I wasn't able to duplicate using existing accounts.  I think it might have something to do with the order of the accounts so when I created accounts similar to the clients, that is when I duplicated it.
+[?12/?16/?2016 10:00 PM] Sarma Tallapragada: 
+do i need to follow any instructions while creating the accounts ?
+
+
+[?12/?16/?2016 10:01 PM] Donna Gallo: 
+No, I had to turn off posting account validation so it would let me create the accounts. 
+[?12/?16/?2016 10:02 PM] Sarma Tallapragada: 
+could you pls tell me any other things to be taken care while creating new accounts 
+so that i will try 
+[?12/?16/?2016 10:02 PM] Donna Gallo: 
+What org are you testing in?
+[?12/?16/?2016 10:03 PM] Sarma Tallapragada: 
+BAORG
+[?12/?16/?2016 10:04 PM] Donna Gallo: 
+ok, just create these 3 accounts in GL100, I made mine account type 1  3737017 3739996  5018239  
+Then when you create the journal use these accounts  3737017   75.00
+3737017 - 75.00
+3739996  -75.00
+5018239   75.00 
+
+[?12/?16/?2016 10:06 PM] Donna Gallo: 
+Also, the customer has GL323B and C filled out and you do not have that record, you need to add GL323B and GL323C
+[?12/?16/?2016 10:07 PM] Sarma Tallapragada: 
+ok
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+GAS Consumer number: 7036813617
+
+DIST CODE: 04023033444
+
+IOC(SPACE)04023033444(SPACE)CONSUMER NO
+
+SEND TO 9848824365
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+SADC1 - Cntl-ID
+
+http://www.ibtimes.co.in/dcb-bank-launches-dcb-upi-mobile-app-695326 
+
+
+
+9884058825 - Armugam
+
+
+usalwvmp20devqa
+
+USALWVMP20DEVQA
+
+
++918800518383 - Tajinder
+
++919560333708 - Hardayal
+
+
+
+18001039371  - Vidal Inusurance customer care
+
+
+9177379976
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+http://localhost:8080/SSAFM   - Remote machine for QA 2.0
+
+\\usalwvmp20devqa\c-drive to see the file in windows system
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+SAUGOV
+
+[?12/?30/?2016 7:45 PM] Sarma Tallapragada: 
+Hi Donna
+Good morning...
+I Wish you and your family a very Happy, Healthy and Prosperous New Year
+[?12/?30/?2016 7:52 PM] Donna Gallo: 
+Hi Sarma, thank you!  And the same to you.  Happy New Year!
+
+
+[?12/?30/?2016 8:10 PM] Sarma Tallapragada: 
+Hi Ed
+Good morning..
+[?12/?30/?2016 8:10 PM] Edwin Colon: 
+Good Monring Sarma
+Morning
+[?12/?30/?2016 8:10 PM] Sarma Tallapragada: 
+I wish you and your family very happy, Healthy and Prosperous New Year
+[?12/?30/?2016 8:11 PM] Edwin Colon: 
+Thank You Sarma and I wish Nothing but the Best for you and your family. May it be Great year!
+
+
+*************
+
+*** NLBAVWTCTX02.infor.com
+
+*** \\infor.com\shared\USAL\Departments\Development\FM-HAUP\Public\APAR STATUS Folder
+
+
+https://www.olx.in/item/2013-volkswagen-vento-petrol-8700-kms-ID191eoL.html
+
+
+info@cibil.com
+
+
+********************************************
+
+CIBIL:
+
+id : sarman.tallapragada@hcl.com
+pwd: Murthy@1212
+
+********************************************
+
+
+
+[?1/?5/?2017 6:09 PM] Donna Gallo: 
+What he is asking for is a report that will print out all the application parameter settings GL001A through GL001X.  The only way to do that right now is to go online and take screen prints.  We have that functionality in AR - AR199 is a report that prints out all the set up parameters.   You can run it to see what the report looks like.   We have something similar in GL to print out the account gen setup - GLU9103     The customer believes he has requested this in the past and it might be on our enhancement queue.  Can you search old incidents to see if you can find his last similar request?  I'll look at the enhancement list to see if there is one out there
+[?1/?5/?2017 7:33 PM] Sarma Tallapragada: 
+sure Donna
+but can we suggest customer to run GLU9103 to get the complete report?
+[?1/?5/?2017 7:34 PM] Donna Gallo: 
+No, GLU9103 will print the account gen setup, that is not what the customer wants, he wants the GL001 parameters 
+
+[?1/?5/?2017 7:55 PM] Donna Gallo: 
+I couldn't find any enhancement request either.  Sounds like you need to create a new enhancement KB for him.  Put ENH - in the beginning of the description, that makes the enhancements easier to find in a search.  
+[?1/?5/?2017 7:55 PM] Sarma Tallapragada: 
+i am trying with all the possibilities Donna
+in the incident log search
+but no incident related to this
+i will try as you suggested now
+[?1/?5/?2017 7:57 PM] Donna Gallo: 
+He may have requested this a long time ago, before we had infor xtreme.  So I think you need to create a new enhancement KB for him
+[?1/?5/?2017 7:57 PM] Sarma Tallapragada: 
+for what i have to create KB Donna
+for his request to be able to print the report for all the panels working?
+am i correct
+/
+?
+
+Yes, add an enhancement request for a new report that will print all the GL001 Application Parameter Set up Panels.  So that the customer does not have to go online to view and screen capture each one
+
+[?1/?5/?2017 8:00 PM] Donna Gallo: 
+If you search the KB's for ENH you can see all the existing enhancement requests
+[?1/?5/?2017 8:00 PM] Sarma Tallapragada: 
+i will create a KB now, inform the customer and close it
+thank you
+
+
+
+
+KB 1881516
+
+KB 1881516 -	Online Reporting of Applications Parameter Set up Panels
+

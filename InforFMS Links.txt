@@ -1,0 +1,8 @@
+FMS 4.0:
+
+http://10.39.118.103:8080/INFORFMNOWS/Welcome.jsp?org.apache.catalina.filters.CSRF_NONCE=03547324EF7920C5CBB7A50E533EE1F1  
+
+
+FMS 2.0:
+
+http://10.39.118.103:8080/SSAFM_20/Welcome.jsp
